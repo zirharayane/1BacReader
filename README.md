@@ -1,4 +1,4 @@
-# 1Bac French Reader & NLP Pipeline (`moroccan-1bac-reader`)
+# 1BacReader
 
 > **Notice**: This project was an experiment and was considered a failure / abandoned by its creator. If anyone wants this code, feel free to take it, use it, modify it, or build something better with it.
 
