@@ -11,6 +11,7 @@
       key: 'boite',
       title: "La Boîte à Merveilles",
       author: "Ahmed Sefrioui",
+      genre: "Roman Autobiographique",
       dataPath: "data/boite/",
       type: "prose"
     },
@@ -18,6 +19,7 @@
       key: 'condamne',
       title: "Le Dernier Jour d'un Condamné",
       author: "Victor Hugo",
+      genre: "Roman à Thèse",
       dataPath: "data/condamne/",
       type: "prose"
     },
@@ -25,6 +27,7 @@
       key: 'antigone',
       title: "Antigone",
       author: "Jean Anouilh",
+      genre: "Tragédie Moderne",
       dataPath: "data/antigone/",
       type: "theatre"
     }
@@ -236,12 +239,16 @@
         <span>Édition Pédagogique 1Bac</span>
         <span>Régional Maroc</span>
       </div>
-      <div class="page-content" style="display:flex; flex-direction:column; justify-content:center; align-items:center; text-align:center;">
-        <h1 style="font-family:'Newsreader', Georgia, serif; font-size:1.85rem; margin-bottom:0.4rem; color:#fbbf24;">${BacParser.escapeHtml(currentWork.title)}</h1>
-        <h3 style="font-style:italic; font-weight:400; opacity:0.85; margin-bottom:1.5rem;">Par ${BacParser.escapeHtml(currentWork.author)}</h3>
-        <p style="font-size:0.95rem; max-width:85%; opacity:0.85; line-height:1.75;">
-          Module d'étude : vocabulaire traduit en <strong>الدارجة المغربية</strong> et <strong>الفصحى</strong>, et repérage des <strong>Figures de Style</strong> des annales régionales.
-        </p>
+      <div class="page-content">
+        <div class="title-page-card">
+          <span class="title-page-genre">${BacParser.escapeHtml(currentWork.genre || 'Texte Intégral')}</span>
+          <h1 class="title-page-main-title">${BacParser.escapeHtml(currentWork.title)}</h1>
+          <p class="title-page-author">${BacParser.escapeHtml(currentWork.author)}</p>
+          <div class="title-page-divider"></div>
+          <p class="title-page-desc">
+            Module d'étude annoté pour l'examen régional : vocabulaire avec traduction en <strong>الدارجة المغربية</strong> et <strong>الفصحى</strong>, et repérage contextuel des <strong>Figures de Style</strong>.
+          </p>
+        </div>
       </div>
       <div class="page-footer">1</div>
     `;
