@@ -1,0 +1,261 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Lora:ital,wght@0,400;0,500;0,600;1,400&family=Playfair+Display:ital,wght@0,600;0,700;1,400&display=swap');
+
+:root {
+  --bg-base: #0d0f14;
+  --bg-surface: #161922;
+  --border-subtle: rgba(255, 255, 255, 0.08);
+  --border-hover: rgba(255, 255, 255, 0.16);
+  
+  --text-primary: #f3f4f6;
+  --text-secondary: #9ca3af;
+  --text-muted: #6b7280;
+  
+  --accent-gold: #d97706;
+  --accent-indigo: #6366f1;
+
+  --font-sans: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  --font-serif: 'Playfair Display', 'Lora', Georgia, serif;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: var(--bg-base);
+  color: var(--text-primary);
+  font-family: var(--font-sans);
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  line-height: 1.5;
+  -webkit-font-smoothing: antialiased;
+  overflow-x: hidden;
+}
+
+/* Minimalist Header */
+.portal-header {
+  height: 60px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 2.5rem;
+  border-bottom: 1px solid var(--border-subtle);
+  background: rgba(13, 15, 20, 0.85);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+}
+
+.brand-minimal {
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+  text-decoration: none;
+}
+
+.brand-symbol {
+  color: #fbbf24;
+  font-size: 1.15rem;
+}
+
+.brand-title {
+  font-family: var(--font-serif);
+  font-size: 1.15rem;
+  font-weight: 600;
+  letter-spacing: -0.01em;
+  color: #ffffff;
+}
+
+.portal-nav-meta {
+  font-size: 0.8rem;
+  color: var(--text-muted);
+  letter-spacing: 0.02em;
+}
+
+/* Main Portal View */
+.portal-container {
+  flex: 1;
+  max-width: 1040px;
+  width: 100%;
+  margin: 0 auto;
+  padding: 2.25rem 1.5rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+/* Refined Hero */
+.hero-minimal {
+  text-align: center;
+  max-width: 680px;
+  margin: 0 auto 2.5rem auto;
+}
+
+.hero-minimal h1 {
+  font-family: var(--font-serif);
+  font-size: 2.25rem;
+  font-weight: 600;
+  letter-spacing: -0.02em;
+  color: #ffffff;
+  margin-bottom: 0.65rem;
+}
+
+.hero-minimal p {
+  font-size: 0.95rem;
+  color: var(--text-secondary);
+  line-height: 1.6;
+  margin-bottom: 1.1rem;
+}
+
+.quiet-stats {
+  font-size: 0.825rem;
+  color: var(--text-muted);
+  letter-spacing: 0.02em;
+}
+
+/* Vertical 2:3 Book Cards Grid */
+.books-grid-2x3 {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 28px;
+  max-width: 960px;
+  margin: 0 auto;
+  width: 100%;
+}
+
+/* Individual Book Cover Card */
+.book-cover-card {
+  aspect-ratio: 2 / 3;
+  min-height: 380px;
+  border-radius: 8px;
+  padding: 2rem 1.6rem 1.6rem 1.8rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  text-align: center;
+  position: relative;
+  overflow: hidden;
+  transition: transform 0.25s cubic-bezier(0.16, 1, 0.3, 1), box-shadow 0.25s ease, border-color 0.25s ease;
+  user-select: none;
+}
+
+/* Authentic cloth-bound subtle spine shadow on left edge */
+.book-cover-card::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  width: 14px;
+  background: linear-gradient(to right, rgba(0, 0, 0, 0.45) 0%, rgba(0, 0, 0, 0.15) 60%, transparent 100%);
+  border-right: 1px solid rgba(255, 255, 255, 0.05);
+  pointer-events: none;
+}
+
+/* Cloth-bound Themes */
+.card-boite {
+  background-color: #1b2b22;
+  border: 1px solid #2d4537;
+  box-shadow: 0 12px 28px -8px rgba(0, 0, 0, 0.6);
+}
+
+.card-condamne {
+  background-color: #2c1519;
+  border: 1px solid #4a242a;
+  box-shadow: 0 12px 28px -8px rgba(0, 0, 0, 0.6);
+}
+
+.card-antigone {
+  background-color: #17202c;
+  border: 1px solid #26364a;
+  box-shadow: 0 12px 28px -8px rgba(0, 0, 0, 0.6);
+}
+
+.book-cover-card:hover {
+  transform: translateY(-6px);
+}
+
+.card-boite:hover {
+  border-color: #40634f;
+  box-shadow: 0 20px 36px -10px rgba(16, 185, 129, 0.2), 0 12px 24px -8px rgba(0, 0, 0, 0.7);
+}
+
+.card-condamne:hover {
+  border-color: #6a343d;
+  box-shadow: 0 20px 36px -10px rgba(244, 63, 94, 0.2), 0 12px 24px -8px rgba(0, 0, 0, 0.7);
+}
+
+.card-antigone:hover {
+  border-color: #3b5373;
+  box-shadow: 0 20px 36px -10px rgba(99, 102, 241, 0.2), 0 12px 24px -8px rgba(0, 0, 0, 0.7);
+}
+
+/* Card Typography */
+.card-genre {
+  font-size: 0.685rem;
+  text-transform: uppercase;
+  letter-spacing: 0.14em;
+  color: rgba(255, 255, 255, 0.6);
+  font-weight: 600;
+}
+
+.card-body-center {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 1rem 0;
+}
+
+.card-book-title {
+  font-family: var(--font-serif);
+  font-size: 1.45rem;
+  font-weight: 600;
+  line-height: 1.25;
+  color: #ffffff;
+  margin-bottom: 0.5rem;
+}
+
+.card-book-author {
+  font-family: var(--font-serif);
+  font-size: 0.9rem;
+  font-style: italic;
+  color: rgba(255, 255, 255, 0.65);
+}
+
+/* Quiet Minimal Button */
+.btn-open-quiet {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.4rem;
+  padding: 0.6rem 1.1rem;
+  background: rgba(255, 255, 255, 0.08);
+  border: 1px solid rgba(255, 255, 255, 0.15);
+  color: #ffffff;
+  border-radius: 6px;
+  font-size: 0.825rem;
+  font-weight: 500;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  width: 100%;
+}
+
+.btn-open-quiet:hover {
+  background: rgba(255, 255, 255, 0.18);
+  border-color: rgba(255, 255, 255, 0.3);
+}
+
+/* Responsive */
+@media (max-width: 820px) {
+  .books-grid-2x3 {
+    grid-template-columns: 1fr;
+    max-width: 320px;
+    gap: 20px;
+  }
+  .hero-minimal h1 {
+    font-size: 1.85rem;
+  }
+}

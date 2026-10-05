@@ -1,0 +1,333 @@
+{
+  "argot": {
+    "type": "nom masculin",
+    "fr_def": "Langage secret, codé et imagé créé par les malfaiteurs et bagnards pour ne pas être compris de la police.",
+    "arabic": "لغة العالَم السُّفلي؛ اللهجة السرية والمشفرة التي يتحدث بها المجرمون والمساجين.",
+    "darija": "لوغة الشفارة والمحبوسين، هضرة مشفرة ما كيفهموها غير الحرايفية والمسجونين.",
+    "english": "criminal slang / underworld cant"
+  },
+  "veuve": {
+    "type": "nom féminin (argot)",
+    "fr_def": "Surnom tragique donné par les voleurs et bagnards à la guillotine.",
+    "arabic": "الأرملة، اسم في لغة السجون يُطلق مجازياً على المقصلة (آلة الإعدام).",
+    "darija": "الأرملة، سمية كيعطيوها المساجين للمقصلة (المشنقة ولا الݣيوطين) لي كتقطع الريوس.",
+    "english": "the widow (slang for guillotine)"
+  },
+  "tronche": {
+    "type": "nom féminin (argot)",
+    "fr_def": "La tête humaine dans l'argot des forçats (celle qui sera coupée par le couperet).",
+    "arabic": "الرأس أو الجمجمة في لغة المساجين وقطاع الطرق.",
+    "darija": "الراس، سمية فلوغة الحبس كيقصدو بها راس بنادم لي غادي يتقطع بالمقصلة.",
+    "english": "head / noggin (slang)"
+  },
+  "carme": {
+    "type": "nom masculin (argot)",
+    "fr_def": "L'argent, la monnaie ou le numéraire dans le jargon des voleurs.",
+    "arabic": "النقود أو المال في معجم اللصوص والعصابات.",
+    "darija": "الفلوس ولا الصرف فلوغة الحبس والشفارة.",
+    "english": "money / cash (slang)"
+  },
+  "chouriner": {
+    "type": "verbe transitif (argot)",
+    "infinitive": "chouriner",
+    "fr_def": "Poignarder, frapper, égorger ou tuer quelqu'un à coups de couteau (un chourin).",
+    "arabic": "الطعن بالسكين، قتل شخص بواسطة آلة حادة في لغة المجرمين.",
+    "darija": "ضرب ولا غرس بالموس والسكين، ذبح ولا طعن بالجنوي.",
+    "english": "to stab with a knife"
+  },
+  "sorgue": {
+    "type": "nom féminin (argot)",
+    "fr_def": "La nuit, l'obscurité favorable aux vols et aux crimes.",
+    "arabic": "الليل أو الظلام في لهجة السجون وعصابات الليل.",
+    "darija": "الليل والظلام فلوغة الشفارة فين كيديرو العمليات ديالهم.",
+    "english": "night (slang)"
+  },
+  "tourline": {
+    "type": "nom féminin (argot)",
+    "fr_def": "La mort fatale ou l'échafaud dans le langage des condamnés.",
+    "arabic": "الموت أو المقصلة في قاموس المحكومين بالأشغال الشاقة.",
+    "darija": "الموت ولا المقصلة فلوغة المحكومين لي غادي يتقطع ليهم الراس.",
+    "english": "death / the scaffold (slang)"
+  },
+  "dab": {
+    "type": "nom masculin (argot)",
+    "fr_def": "Le père, le patron ou le chef de bande dans le langage argotique.",
+    "arabic": "الأب أو الزعيم أو المعلم في لغة اللصوص والنشالين.",
+    "darija": "الوالد ولا الشاف الكبير ديال العصابة فلوغة الشفارة.",
+    "english": "father / gang boss (slang)"
+  },
+  "fanandel": {
+    "type": "nom masculin (argot)",
+    "fr_def": "Camarade, ami intime de prison ou complice de cellule.",
+    "arabic": "الرفيق في الجريمة أو زميل الزنزانة والمعتقل.",
+    "darija": "العشير ديال الحبس ولا الشريك فالجريمة بين المساجين.",
+    "english": "comrade / prison buddy (slang)"
+  },
+  "marquant": {
+    "type": "nom masculin (argot)",
+    "fr_def": "Le juge d'instruction ou le procureur royal qui requiert la peine de mort.",
+    "arabic": "القاضي أو وكيل الملك الذي يوجه التهم ويطلب الإعدام.",
+    "darija": "وكيل الملك ولا القاضي لي كيطيح العقوبات القاصحة فالمحكمة.",
+    "english": "prosecutor / sentencing judge (slang)"
+  },
+  "bobe": {
+    "type": "nom féminin (argot)",
+    "fr_def": "La montre en or ou en argent dérobée à une victime.",
+    "arabic": "الساعة المسروقة في قاموس النشالين واللصوص.",
+    "darija": "المكانة المسروقة ديال الذهب فقاموس الشفارة.",
+    "english": "stolen watch (slang)"
+  },
+  "trimar": {
+    "type": "nom masculin (argot)",
+    "fr_def": "La grand-route, le chemin où les brigands attaquaient les diligences.",
+    "arabic": "الطريق السريع أو الدرب الخالي الذي يتعرض فيه المسافرون للسطو المسلح.",
+    "darija": "الطريق الكبيرة ولا الطريق الخالية لي كيكريسيو فيها قطاع الطرق الكيران والمسافرين.",
+    "english": "highway / open road (slang)"
+  },
+  "roussin": {
+    "type": "nom masculin (argot)",
+    "fr_def": "Policier en civil, espion de la préfecture de police infiltré dans le milieu criminel.",
+    "arabic": "المخبر السري أو شرطي المباحث المتخفي لرصد المجرمين.",
+    "darija": "البوليسي السري ولا المخبر (البرݣاݣ) لي كيتخبا وسط الشفارة باش يقبض عليهم.",
+    "english": "plainclothes detective / police spy (slang)"
+  },
+  "sanglier": {
+    "type": "nom masculin (argot)",
+    "fr_def": "Prêtre ou aumônier des prisons chargé de confesser les condamnés à mort.",
+    "arabic": "قسيس السجن المكلّف بالاستماع إلى اعترافات المحكومين قبل إعدامهم.",
+    "darija": "القسيس ولا الفقيه ديال الحبس لي كيجي يعترف عندو المحكوم قبل ما يشنقوه.",
+    "english": "prison priest (slang)"
+  },
+  "grève": {
+    "type": "nom féminin",
+    "fr_def": "La place de Grève à Paris, lieu sinistre où la guillotine était dressée en public.",
+    "arabic": "ساحة الإعدام التاريخية بباريس (ساحة الغريف) حيث كان يُنفذ الإعدام علناً أمام الجمهور.",
+    "darija": "ساحة لاݣريف فباريس فين كانو كيقسمو الريوس وكيعدمو المحكومين قدام الناس كاملين.",
+    "english": "Place de Grève (public execution square in Paris)"
+  },
+  "bicêtre": {
+    "type": "nom propre masculin",
+    "fr_def": "Château-prison lugubre au sud de Paris où étaient cloîtrés les condamnés à mort et les aliénés.",
+    "arabic": "سجن بيسيتر الرهيب بضواحي باريس، حيث كان يُعتقل المحكومون بالإعدام والأشغال الشاقة.",
+    "darija": "حبس بيسيتر، واحد من أكفس الحبوسات فباريس لي كانو كيديرو فيه المحكومين بالإعدام.",
+    "english": "Bicêtre prison"
+  },
+  "conciergerie": {
+    "type": "nom féminin",
+    "fr_def": "Prison centrale de Paris située sur l'île de la Cité où l'on transférait le condamné pour ses dernières heures.",
+    "arabic": "سجن الكونسيرجيري الشهير بباريس، محطة السجين الأخيرة قبل نقله إلى المقصلة.",
+    "darija": "حبس لاكونسيرجيري فباريس، المحطة اللخرة لي كيدوز فيها المحكوم ساعاتو اللخرين قبل ما يديوه للإعدام.",
+    "english": "Conciergerie prison"
+  },
+  "ferrade": {
+    "type": "nom féminin",
+    "fr_def": "Cérémonie publique atroce où l'on rivait un collier de fer au cou des forçats partant pour Toulon.",
+    "arabic": "حفل التصفيد بالحديد، عملية تثبيت الأطواق الحديدية الثقيلة حول أعناق المحكومين بالأشغال الشاقة.",
+    "darija": "عملية التݣلاص والربيط بالسناسل والحديد على عنق المحكومين بالأشغال الشاقة قبل ما يدوهوم للباغنو.",
+    "english": "the irons ceremony / chaining of convicts"
+  },
+  "carcan": {
+    "type": "nom masculin",
+    "fr_def": "Collier de fer rivé à froid au cou d'un prisonnier pour l'attacher à une chaîne collective.",
+    "arabic": "الطوق الحديدي، قيد من حديد يُغلق بإحكام بالمطرقة حول عنق السجين.",
+    "darija": "الكوليا والقلادة ديال الحديد الثقيل لي كيسدوها بالمرزبة على عنق المحبوس.",
+    "english": "iron collar / pillory"
+  },
+  "échafaud": {
+    "type": "nom masculin",
+    "fr_def": "Haute estrade en planches de bois sur laquelle était installée la guillotine pour être vue de la foule.",
+    "arabic": "منصة الإعدام الخشبية، المرتفع الذي تُنصب فوقه المقصلة.",
+    "darija": "المنصة الخشبية العالية لي كانت كتحط فوقها المقصلة باش كلشي يشوف الإعدام.",
+    "english": "scaffold / execution platform"
+  },
+  "bourreau": {
+    "type": "nom masculin",
+    "fr_def": "L'exécuteur public officiel chargé d'actionner le couperet de la guillotine (Sans-fils).",
+    "arabic": "السيّاف أو الجلاد، المكلّف الرسمي بتنفيذ حكم القتل وقطع الأعناق.",
+    "darija": "السياف ولا الجلاد لي كيطيح المقصلة وكيقطع راس المحكوم.",
+    "english": "executioner / headsman"
+  },
+  "couperet": {
+    "type": "nom masculin",
+    "fr_def": "Lame trapézoïdale très lourde en acier tranchant qui glisse entre deux montants pour décapiter le supplicié.",
+    "arabic": "شفرة المقصلة الفولاذية الحادة التي تهوي لتقطع عنق المحكوم في ثانية.",
+    "darija": "الموس القاطع والتقيل ديال لݣيوطين لي كيطيح من الفوق باش يطير الراس فالرمشة ديال العين.",
+    "english": "guillotine blade"
+  },
+  "pourvoyeur": {
+    "type": "nom masculin",
+    "fr_def": "Celui qui fournit ou alimente (Hugo qualifie le procureur royal de pourvoyeur de l'échafaud).",
+    "arabic": "المموّن أو المزوّد، من يمد جهة ما بما تحتاجه (كوكيل الملك الذي يزود المقصلة بالضحايا).",
+    "darija": "الممون لي كيجيب السلعة وكيغذي شي حاجة (بحال وكيل الملك لي كيعمر المقصلة بالريوس).",
+    "english": "purveyor / supplier"
+  },
+  "supplice": {
+    "type": "nom masculin",
+    "fr_def": "Souffrance physique intense infligée comme peine, ou angoisse morale extrême de la mort imminente.",
+    "arabic": "العذاب الأليم أو التنكيل الجسدي والمعنوي الشديد.",
+    "darija": "العذاب والمحنة القاصحة بزاف جسدياً ونفسياً.",
+    "english": "torment / torture / agony"
+  },
+  "linceul": {
+    "type": "nom masculin",
+    "fr_def": "Pièce de drap ou de toile blanche dont on enveloppe le corps d'un mort avant de le mettre en terre.",
+    "arabic": "الكفن، القماش الأبيض الذي يُلف فيه الميت ويوضع به في القبر.",
+    "darija": "الكفن الأبيض لي كيتلف فيه الميت قبل ما يتدفن فالقبر.",
+    "english": "shroud / burial cloth"
+  },
+  "rémission": {
+    "type": "nom féminin",
+    "fr_def": "Acte de grâce du roi ou de l'État pardonnant la peine de mort et commuant la sanction.",
+    "arabic": "العفو الملكي أو الرئاسي والمغفرة والصفح عن العقوبة وإلغاء القصاص.",
+    "darija": "العفو الملكي والسماحة من عقوبة الإعدام لي كان كيتسناها المحكوم حتى للدقيقة اللخرة.",
+    "english": "royal pardon / reprieve"
+  },
+  "pourrissoir": {
+    "type": "nom masculin",
+    "fr_def": "Cachot souterrain humide et infect où les prisonniers dépérissaient sans air ni lumière.",
+    "arabic": "مَطْمَرة التعفين، زنزانة رطبة وسفلى تُترك فيها أجساد المحكومين لتتعفن في الظلام.",
+    "darija": "المطمورة الخانزة فالحبس فين كانو كيحطو بنادم يعفن فالغيس والظلام بلا شمش.",
+    "english": "dungeon rot-vault"
+  },
+  "toilette": {
+    "type": "nom féminin (criminelle)",
+    "fr_def": "Le rituel préparatoire où les valets du bourreau coupent les cheveux du condamné et ouvrent le col de sa chemise.",
+    "arabic": "طقس إعداد المحكوم؛ قص شعر رقبته وتمزيق ياقة قميصه وتوثيق يديه تمهيداً لوضعه تحت السكين.",
+    "darija": "الطقوس الخانزة ديال السياف: كيحسنو ليه شعر قرفادتو بالمقص وكيقطعو ليه الكول ديال القميجة باش المقصلة تدوز ديريكت.",
+    "english": "execution preparation ritual / binding"
+  },
+  "charrette": {
+    "type": "nom féminin",
+    "fr_def": "Voiture ouverte à deux roues tirée par un cheval qui transportait le condamné de la prison à l'échafaud sous les huées.",
+    "arabic": "عربة الإعدام المكشوفة التي تجرها الخيول لنقل المحكوم مقيداً أمام أنظار الجماهير إلى ساحة الإعدام.",
+    "darija": "الكروصة المفتوحة ديال الخيل لي كانو كيديّو فيها المحكوم مكتف بالسناسل قدام الزحام حتى لساحة لاݣريف.",
+    "english": "tumbrel / execution cart"
+  },
+  "pourvoi": {
+    "type": "nom masculin",
+    "fr_def": "Le pourvoi en cassation, dernier recours juridique formé par l'avocat pour faire annuler la sentence de mort.",
+    "arabic": "الطعن بالنقض والإبرام؛ الاستئناف القضائي الأخير للمطالبة بإبطال حكم الإعدام.",
+    "darija": "الطعن بالنقض، آخر استئناف كيديرو المحامي فالمحكمة العليا باش يحاول يلغي حكم الإعدام.",
+    "english": "appeal in cassation"
+  },
+  "arrêt": {
+    "type": "nom masculin",
+    "fr_def": "Décision de justice solennelle et définitive rendue par une cour d'assises ou de cassation.",
+    "arabic": "قرار المحكمة النهائي الصارم الصادر بالإدانة أو البراءة.",
+    "darija": "الحكم النهائي ديال المحكمة لي صافي كيحسم المصير ديال المتهم.",
+    "english": "court ruling / judicial decree"
+  },
+  "agonie": {
+    "type": "nom féminin",
+    "fr_def": "Les derniers moments de souffrance extrême d'un être avant la mort.",
+    "arabic": "الاحتضار وسكرات الموت، اللحظات الأخيرة المؤلمة قبل خروج الروح.",
+    "darija": "السكرات ديال الموت واللحظات اللخرين فاش كيكون بنادم كيموت وكيعاني.",
+    "english": "agony / death throes"
+  },
+  "spectre": {
+    "type": "nom masculin",
+    "fr_def": "Apparition effrayante d'un fantôme ou d'une ombre imaginaire qui obsède l'esprit.",
+    "arabic": "الطيف أو الشبح المرعب الذي يطارد العقل والوجدان.",
+    "darija": "الشبح ولا الخيال المخلوع لي كيبقى تابع بنادم ويطيرو ليه النعاس.",
+    "english": "spectre / ghost"
+  },
+  "hideux": {
+    "type": "adjectif",
+    "fr_def": "Extrêmement laid, repoussant et effrayant à regarder.",
+    "arabic": "بشع وشنيع المنظر يثير الرعب والقرف الشديد.",
+    "darija": "خايب ومقزز وكيخلع بزاف من قباحتو.",
+    "english": "hideous / gruesome"
+  },
+  "sinistre": {
+    "type": "adjectif",
+    "fr_def": "Qui fait naître une impression de terreur, de tristesse et de mort prochaine.",
+    "arabic": "مشؤوم، نذير شؤم وباعث على الكآبة والفزع.",
+    "darija": "نذير شؤم وموحش كيدخل الكآبة والخلعة فالقلب.",
+    "english": "sinister / ominous"
+  },
+  "râle": {
+    "type": "nom masculin",
+    "fr_def": "Bruit rauque et difficile de la respiration d'un agonisant.",
+    "arabic": "الحشرجة أو الغرغرة الصادرة من حنجرة المحتضر عند خروج الروح.",
+    "darija": "الخرخرة والغرغرة ديال الروح فالحلق فاش كيكون بنادم كيموت.",
+    "english": "death rattle"
+  },
+  "hébété": {
+    "type": "adjectif",
+    "fr_def": "Rendu stupide, hébété ou privé de réaction sous l'effet d'une douleur ou d'un choc insurmontable.",
+    "arabic": "متبلد، مصدوم فاقد للإدراك والحركة من شدة هول الصدمة.",
+    "darija": "مبلد ودايخ ومصدوم مكيتحرك مكيجاوب من فرط الصدمة.",
+    "english": "dazed / stupefied"
+  },
+  "prostration": {
+    "type": "nom féminin",
+    "fr_def": "État d'abattement physique et moral absolu où l'on perd toute force de réagir.",
+    "arabic": "الانهيار والإنهاك التام؛ فقدان كامل للقوة والقدرة على المقاومة.",
+    "darija": "الفشلة والانهيار التام فاش كيسخف بنادم ومكيبقى عندو جهد يتحرك.",
+    "english": "prostration / total collapse"
+  },
+  "pût": {
+    "type": "verbe (subjonctif imparfait)",
+    "infinitive": "pouvoir",
+    "fr_def": "Forme littéraire du verbe pouvoir au subjonctif imparfait (3e personne du singulier).",
+    "arabic": "صيغة الماضي للشك من فعل قدر أو استطاع في الأسلوب الأدبي.",
+    "darija": "صيغة الشك الأدبية من فعل قدر (pouvoir).",
+    "english": "could / might be able to"
+  },
+  "fît": {
+    "type": "verbe (subjonctif imparfait)",
+    "infinitive": "faire",
+    "fr_def": "Forme littéraire du verbe faire au subjonctif imparfait (3e personne du singulier).",
+    "arabic": "صيغة الماضي للشك من فعل صنع أو فعل في الأسلوب الأدبي.",
+    "darija": "صيغة الشك الأدبية من فعل دار ولا صنع (faire).",
+    "english": "did / might make"
+  },
+  "vînt": {
+    "type": "verbe (subjonctif imparfait)",
+    "infinitive": "venir",
+    "fr_def": "Forme littéraire du verbe venir au subjonctif imparfait (3e personne du singulier).",
+    "arabic": "صيغة الماضي للشك من فعل جاء أو حضر في الأسلوب الأدبي.",
+    "darija": "صيغة الشك الأدبية من فعل جاء (venir).",
+    "english": "might come / should arrive"
+  },
+  "voulût": {
+    "type": "verbe (subjonctif imparfait)",
+    "infinitive": "vouloir",
+    "fr_def": "Forme du subjonctif imparfait du verbe vouloir (3e personne du singulier).",
+    "arabic": "صيغة الماضي للشك من فعل أراد أو رغب.",
+    "darija": "صيغة الشك الأدبية من فعل بغى (vouloir).",
+    "english": "might wish / desired"
+  },
+  "décréta": {
+    "type": "verbe (passé simple)",
+    "infinitive": "décréter",
+    "fr_def": "Il ordonna officiellement, promulgua une décision irrévocable.",
+    "arabic": "أصدر أمراً قضائياً أو حكماً رسمياً صارماً (بصيغة الماضي البسيط).",
+    "darija": "حكم وقرر رسمياً فصيغة الماضي البسيط الأدبي.",
+    "english": "decreed / mandated"
+  },
+  "abattit": {
+    "type": "verbe (passé simple)",
+    "infinitive": "abattre",
+    "fr_def": "Il fit tomber violemment ou écrasa le courage de quelqu'un.",
+    "arabic": "أسقط أو صرع بقوة، وحطم المعنويات (بصيغة الماضي البسيط).",
+    "darija": "طيح وسحق بقوة وهد الجهد فصيغة الماضي البسيط.",
+    "english": "struck down / demoralized"
+  },
+  "tressaillit": {
+    "type": "verbe (passé simple)",
+    "infinitive": "tressaillir",
+    "fr_def": "Il eut un sursaut involontaire causé par la peur, la surprise ou l'horreur.",
+    "arabic": "ارتجف وانتفض فجأة من فرط الفزع أو المفاجأة (بصيغة الماضي البسيط).",
+    "darija": "تقفز وترعد فجأة من الخلعة فصيغة الماضي البسيط الأدبي.",
+    "english": "shuddered / started"
+  },
+  "s'affaissa": {
+    "type": "verbe (passé simple)",
+    "infinitive": "s'affaisser",
+    "fr_def": "Il tomba mollement sur lui-même, s'écroula de faiblesse.",
+    "arabic": "تهاوى وخر صريعاً من شدة الوهن والانهيار (بصيغة الماضي البسيط).",
+    "darija": "طاح وسخف على راسو فاش ما بقا فيه جهد فصيغة الماضي البسيط.",
+    "english": "collapsed / sagged"
+  }
+}

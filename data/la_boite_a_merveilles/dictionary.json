@@ -1,0 +1,373 @@
+{
+  "chouafa": {
+    "type": "nom féminin",
+    "fr_def": "Voyante ou sorcière traditionnelle marocaine qui pratique des rituels divinatoires et invoque les esprits.",
+    "arabic": "العرّافة أو الشوافة، امرأة تدعي معرفة الغيب وتستحضر الأرواح في التقاليد الشعبية.",
+    "darija": "الشوافة، مرا كتدعي السحر ولا قراءة الفال وكيديرو عندها الناس طقوس ديال الشعوذة.",
+    "english": "traditional Moroccan clairvoyant or fortune-teller"
+  },
+  "msid": {
+    "type": "nom masculin",
+    "fr_def": "École coranique traditionnelle où les enfants apprennent à lire, écrire et mémoriser le Coran.",
+    "arabic": "المسيد أو الكُتّاب القرآني التقليدي لتعليم الصغار القرآن ومبادئ القراءة والكتابة.",
+    "darija": "المسيد ولا الجامع فين كيقراو الدراري الصغار القرآن والكتابة باللوح والصمغ.",
+    "english": "traditional Quranic school"
+  },
+  "fqih": {
+    "type": "nom masculin",
+    "fr_def": "Maître d'école coranique ou savant religieux musulman qui enseigne aux enfants.",
+    "arabic": "الفقيه، معلم الكتاب أو رجل الدين المتمكن من علوم الفقه والشريعة.",
+    "darija": "الفقيه، المعلم ديال المسيد لي كيحفظ الدراري القرآن وكيعاقبهم بالفلقة.",
+    "english": "Quranic school teacher / Islamic scholar"
+  },
+  "haïk": {
+    "type": "nom masculin",
+    "fr_def": "Grand vêtement traditionnel féminin en étoffe blanche ou écrue dont les femmes se drapent pour sortir.",
+    "arabic": "الحايك، لباس نسائي تقليدي ساتر من قماش أبيض أو كريمي يُلف حول كامل الجسم.",
+    "darija": "الحايك، التوب الأبيض لي كانت كتلبسو المرة فالمغرب باش تغطي راسها وحوايجها فاش كتخرج للزنقة.",
+    "english": "traditional Maghrebi woman's white wrap"
+  },
+  "doum": {
+    "type": "nom masculin",
+    "fr_def": "Palmier nain méditerranéen dont les fibres végétales servent à tresser paniers, nattes et couffins.",
+    "arabic": "الدوم، نبات النخيل القزم تُستعمل أليافه لصنع السلال والحبال التقليدية.",
+    "darija": "الدوم، الورق ديال النخل القصير لي كيصاوبو منو القفاف والحصاير.",
+    "english": "dwarf palm fibers"
+  },
+  "driba": {
+    "type": "nom féminin",
+    "fr_def": "Petite ruelle étroite et couverte dans la médina.",
+    "arabic": "الزقاق الضيق المسدود أو المنعطف الصغير في أحياء فاس القديمة.",
+    "darija": "الدريبة، زنقة صغيورة فالدرب.",
+    "english": "small dead-end lane"
+  },
+  "derb": {
+    "type": "nom masculin",
+    "fr_def": "Quartier ou ruelle principale reliant plusieurs impasses dans une médina.",
+    "arabic": "الدرب، حي أو زقاق رئيسي في النسيج العمراني للمدينة العتيقة.",
+    "darija": "الدرب، الحي ولا الزنقة فين ساكنين الجيران فالمدينة القديمة.",
+    "english": "neighborhood lane / quarter"
+  },
+  "chapelet": {
+    "type": "nom masculin",
+    "fr_def": "Objet de dévotion formé d'un cordon de grains que l'on égrène en récitant des prières (tasbih).",
+    "arabic": "المسبحة أو السبحة، سلك منظوم بالخرز يُستعمل في التسبيح والذكر.",
+    "darija": "التسبيح، السلسلة ديال العقيق لي كيذكرو وكيسبحو بها الله.",
+    "english": "prayer beads / tasbih"
+  },
+  "babouches": {
+    "type": "nom féminin pluriel",
+    "fr_def": "Chaussures traditionnelles en cuir sans talon et à semelle plate portées au Maroc.",
+    "arabic": "البَلْغة أو البلغة المغربية، حذاء جلدي تقليدي مسطح بدون كعب.",
+    "darija": "البلغة، الحذاء الجلدي التقليدي المغربي لي كيلبسوه الرجال والعيالات.",
+    "english": "traditional Moroccan leather slippers"
+  },
+  "caftan": {
+    "type": "nom masculin",
+    "fr_def": "Robe traditionnelle longue et ample, souvent richement brodée, portée lors des fêtes et cérémonies.",
+    "arabic": "القفطان، ثوب تقليدي فضفاض ومطرز ترتديه النساء في المناسبات والأعياد.",
+    "darija": "القفطان المغربي، اللبسة التقليدية الفاسية المخزنية المطروزة لي كتلبس فالأعراس والأعياد.",
+    "english": "caftan / traditional embroidered robe"
+  },
+  "moussem": {
+    "type": "nom masculin",
+    "fr_def": "Fête religieuse et pèlerinage annuel en l'honneur d'un saint (marabout) au Maroc.",
+    "arabic": "الموسم، احتفال ديني وتجاري سنوي يُقام حول ضريح ولي صالح.",
+    "darija": "الموسم، الزارة ولا الاحتفال السنوي لي كيدار عند الولي الصالح وكيتجمعو فيه الناس.",
+    "english": "Moroccan annual festival / pilgrimage"
+  },
+  "jenn": {
+    "type": "nom masculin",
+    "fr_def": "Créature surnaturelle invisible selon les croyances populaires et religieuses.",
+    "arabic": "الجني، كائن غيبي خارق للطبيعة في المعتقدات الشعبية والإسلامية.",
+    "darija": "الجني ولا الجوان، كائنات خفية كيعتاقدو الناس بلي كيسكنو الأماكن المظلمة والحمامات.",
+    "english": "jinn / spirit"
+  },
+  "bain maure": {
+    "type": "nom masculin",
+    "fr_def": "Établissement public de bains de vapeur chauds (hammam traditionnel).",
+    "arabic": "الحمام المغربي التقليدي للاستحمام بالبخار والماء الساخن.",
+    "darija": "الحمام الشعبي السخون فين كيمشيو العيالات والرجال يتحكو بالصابون البلدي.",
+    "english": "traditional Moorish bathhouse / hammam"
+  },
+  "cadi": {
+    "type": "nom masculin",
+    "fr_def": "Juge musulman traditionnel appliquant le droit islamique (charia) pour les mariages, successions et litiges.",
+    "arabic": "القاضي الشرعي، الحاكم الذي يفصل في قضايا الأسرة والمعاملات وفق الشريعة الإسلامية.",
+    "darija": "القاضي الشرعي، لي كان كيكتب عقود الزواج ويفصل بين الناس فالشريعة.",
+    "english": "Qadi / Islamic judge"
+  },
+  "muphti": {
+    "type": "nom masculin",
+    "fr_def": "Savant religieux musulman habilité à émettre des avis juridiques religieux (fatwas).",
+    "arabic": "المفتي، عالم الفقه المخول بإصدار الفتاوى والأحكام الشرعية.",
+    "darija": "المفتي، العالم الديني المتمكن لي كيفتي للناس فالأمور الدينية المعقدة.",
+    "english": "mufti / Islamic legal scholar"
+  },
+  "chérif": {
+    "type": "nom masculin",
+    "fr_def": "Descendant du prophète Mahomet, bénéficiant d'un grand respect traditionnel (titre de Maâlem Abdeslam).",
+    "arabic": "الشريف، من ينحدر من سلالة النبي محمد صلى الله عليه وسلم ويحظى بمكانة محترمة.",
+    "darija": "الشريف، لي كينتامي للنسب النبوي الشريف وكان عندو احترام كبير ففاس.",
+    "english": "Sharif / noble descendant of the Prophet"
+  },
+  "patio": {
+    "type": "nom masculin",
+    "fr_def": "Cour intérieure à ciel ouvert au centre d'une maison marocaine traditionnelle (ouast ed-dar).",
+    "arabic": "فناء الدار أو وسط الدار، ساحة داخلية مكشوفة تتوسط الرياض أو المنزل التقليدي.",
+    "darija": "وسط الدار ولا الصحن ديال الدار التقليدية لي كيكون محلول فالسما.",
+    "english": "central open courtyard"
+  },
+  "ambre": {
+    "type": "nom masculin",
+    "fr_def": "Substance aromatique précieuse utilisée pour les parfums et la confection de colliers précieux.",
+    "arabic": "العنبر، مادة عطرية ثمينة تُستعمل في التبخير وصناعة العقود والحلي النفيسة.",
+    "darija": "العنبر الحر، مادة عطرية غالية كيديروها فالعطور والسلاسل ديال العيالات.",
+    "english": "ambergris / precious fragrance"
+  },
+  "santal": {
+    "type": "nom masculin",
+    "fr_def": "Bois aromatique précieux d'Orient brûlé comme encens lors des cérémonies.",
+    "arabic": "خشب الصندل العطري الفاخر، يُحرق كبخور زكي الرائحة في المناسبات الدينية.",
+    "darija": "عود الصندل، خشب كيعطي ريحة البخور زوينة فاش كيتبخر بيه.",
+    "english": "sandalwood"
+  },
+  "marabout": {
+    "type": "nom masculin",
+    "fr_def": "Tombeau d'un saint musulman au Maroc ou saint homme vénéré (comme Sidi Ali Boughaleb).",
+    "arabic": "الضريح أو الولي الصالح المزار في التقاليد المغربية للترحم وطلب البركة.",
+    "darija": "السيد ولا الولي الصالح والضريح ديالو لي كيمشيو ليه الناس يزورو.",
+    "english": "marabout / saint's shrine"
+  },
+  "solitude": {
+    "type": "nom féminin",
+    "fr_def": "État d'une personne isolée moralement et affectivement du monde qui l'entoure.",
+    "arabic": "الوحدة أو العزلة، شعور الفرد بالانعزال النفسي والانفصال الوجداني عن الآخرين.",
+    "darija": "الوحدة، الإحساس لي كان عايش فيه سيدي محمد فاش كيحس براسو معزول على الناس.",
+    "english": "solitude / loneliness"
+  },
+  "torpeur": {
+    "type": "nom féminin",
+    "fr_def": "Diminution de la sensibilité et de l'activité, engourdissement physique ou moral.",
+    "arabic": "الخُمول أو السُّبات، حالة من الفتور والبلادة في الحركة أو التفكير.",
+    "darija": "الرخاوة والنعاس، حالة فاش كيكون الواحد فاشل وما قادرش يتحرك بحال لي سكران بالنعاس.",
+    "english": "torpor / sluggish numbness"
+  },
+  "léthargie": {
+    "type": "nom féminin",
+    "fr_def": "Sommeil profond et prolongé ; engourdissement extrême et perte d'énergie.",
+    "arabic": "السبات العميق، حالة نوم ثقيل وفقدان كامل للحيوية والنشاط.",
+    "darija": "نعاس تقيل بزاف وغياب الحيوية، فحال يلا بنادم غايب على الوعي.",
+    "english": "lethargy / deep sleep"
+  },
+  "baluchon": {
+    "type": "nom masculin",
+    "fr_def": "Paquet de vêtements ou d'effets personnels noués dans une pièce d'étoffe.",
+    "arabic": "صُرَّة الثياب، حزمة من الملابس تُربط في قطعة قماش لحملها في السفر أو الحمام.",
+    "darija": "البقجة ولا الرزمة ديال الحوايج لي كيعقدوها فالتوب باش يديروها للحمام ولا للسفر.",
+    "english": "bundle of clothes"
+  },
+  "cénotaphe": {
+    "type": "nom masculin",
+    "fr_def": "Tombeau élevé à la mémoire d'un défunt sans contenir son corps.",
+    "arabic": "ضريح تذكاري رمزي يُقام لتكريم ميت دون أن يضم رفاته الحقيقية.",
+    "darija": "قبر تذكاري ولا ضريح رمزي كيدار تخليداً لذكرى شي ميت بلا ما تكون فيه الجثة ديالو.",
+    "english": "cenotaph / memorial monument"
+  },
+  "simarre": {
+    "type": "nom féminin",
+    "fr_def": "Longue robe d'apparat que portaient autrefois les magistrats, prélats ou souverains.",
+    "arabic": "جبة واسعة وفضفاضة ذات أكمام طويلة يرتديها القضاة أو الوجهاء في المناسبات الرسمية.",
+    "darija": "كسوة واسعة ومطروزة ديال الهيبة كيلبسوها القضاة والعلماء فالأعياد والمحافل.",
+    "english": "loose ceremonial gown"
+  },
+  "défunt": {
+    "type": "nom masculin / adjectif",
+    "fr_def": "Personne décédée, mort.",
+    "arabic": "المرحوم أو الميت الذي فارق الحياة.",
+    "darija": "المرحوم ولا الميت لي توفى.",
+    "english": "deceased / late"
+  },
+  "acariâtre": {
+    "type": "adjectif",
+    "fr_def": "D'un caractère difficile, querelleur, désagréable et prompt aux disputes.",
+    "arabic": "نكد الطباع، سيئ الخلق وشديد المراس، دائم الشجار والتذمر.",
+    "darija": "نݣار وقبيح الطبع، كيعجبو الصداع والخصومات على والو.",
+    "english": "quarrelsome / ill-tempered"
+  },
+  "vitupérer": {
+    "type": "verbe intransitif",
+    "infinitive": "vitupérer",
+    "fr_def": "Proférer des paroles violentes, des reproches véhéments et des injures.",
+    "arabic": "كال الشتائم واللعنات، وصبّ جام غضبه بالصراخ والاحتجاج العنيف.",
+    "darija": "سب وشتم وبدا كيعاير بصوت عالي وكيغوت من شدة الغضب (بحال لي دارت لالة زبيدة).",
+    "english": "to rail violently / vituperate"
+  },
+  "gourmander": {
+    "type": "verbe transitif",
+    "infinitive": "gourmander",
+    "fr_def": "Réprimander doucement ou gronder avec bienveillance et tendresse.",
+    "arabic": "أنّب بلطف وعاتب بود وحنان دون قسوة.",
+    "darija": "غوت على شي حد بلطف وحنان، بحال فاش الأم كتعاتب ولدها الصغير بلا ما تعاقبو بقسوة.",
+    "english": "to scold gently"
+  },
+  "se lamenter": {
+    "type": "verbe pronominal",
+    "infinitive": "se lamenter",
+    "fr_def": "Manifester bruyamment sa douleur ou son chagrin par des plaintes et des pleurs.",
+    "arabic": "النواح والشكوى، التعبير عن الحزن الشديد بالبكاء وذكر المصائب.",
+    "darija": "ندب وبكى وتشكى، كيبكي ويشكي من الزمان والمشاكل ديالو.",
+    "english": "to lament / wail"
+  },
+  "impasse": {
+    "type": "nom féminin",
+    "fr_def": "Ruelle qui n'a pas d'issue, rue fermée à un bout (cul-de-sac).",
+    "arabic": "الزقاق المسدود، درب لا منفذ له من طرفه الآخر.",
+    "darija": "الزنقة المسدودة لي مفيهاش خرجة.",
+    "english": "dead-end / cul-de-sac"
+  },
+  "moineau": {
+    "type": "nom masculin",
+    "fr_def": "Petit oiseau passereau très commun dans les villes (que le jeune Sidi Mohammed cherche à attraper).",
+    "arabic": "العصفور الدوري الصغير الشائع في المدن والبيوت.",
+    "darija": "الفرخ ولا العصفور الصغير لي كيصيدوه الدراري الصغار.",
+    "english": "sparrow"
+  },
+  "austère": {
+    "type": "adjectif",
+    "fr_def": "Grave, sévère, rigoureux, sans gaieté ni luxe (comme le père Maâlem Abdeslam).",
+    "arabic": "صارم، جاد ومتزمت، قليل الابتسام وخالٍ من الترف والبهو.",
+    "darija": "صارم ومعقول وما كيضحكش بزاف، راجل وقور وثابت فكلامو.",
+    "english": "austere / stern"
+  },
+  "catafalque": {
+    "type": "nom masculin",
+    "fr_def": "Estrade surélevée supportant le cercueil ou le tombeau d'un saint recouvert d'étoffe brodée.",
+    "arabic": "التابوت أو النعش التذكاري المغطى بالحرير والأقمشة المطروزة في الضريح.",
+    "darija": "التابوت ديال الولي الصالح لي كيكون مغطي بالحرير وثوب الخريب الأخضر.",
+    "english": "catafalque / decorated tomb structure"
+  },
+  "dévot": {
+    "type": "adjectif / nom",
+    "fr_def": "Personne très pieuse et scrupuleuse dans les pratiques religieuses.",
+    "arabic": "التقي، العابد الورع الحريص على أداء العبادات والصلوات.",
+    "darija": "المتقي والمصلح لي ديما شاد التسبيح وكيصلي ويصوم.",
+    "english": "devout / pious person"
+  },
+  "vociférer": {
+    "type": "verbe intransitif",
+    "infinitive": "vociférer",
+    "fr_def": "Pousser des cris furieux, parler ou crier avec rage et emportement.",
+    "arabic": "صاح بهياج وصرخ بأعلى صوته في نوبة غضب شديدة.",
+    "darija": "غوت بصوت مجهد بالزعاف والغدايد بحال فاش كتخاصم لالة زبيدة.",
+    "english": "to shout furiously / bawl"
+  },
+  "charlatan": {
+    "type": "nom masculin",
+    "fr_def": "Imposteur qui exploite la crédulité populaire en vendant de faux remèdes ou de fausses prophéties.",
+    "arabic": "الدجال أو المشعوذ الذي يستغل سذاجة الناس ببيع الأوهام والتمائم الباطلة.",
+    "darija": "الدجال ولا المشعود لي كيضحك على عباد الله ويبيع ليهم الحجابات والوهم.",
+    "english": "charlatan / fraudster"
+  },
+  "amertume": {
+    "type": "nom féminin",
+    "fr_def": "Saveur amère ; tristesse mêlée de ressentiment ou de déception dégoûtée.",
+    "arabic": "المرارة؛ الطعم المر، أو الحزن المقرون بالخيبة والأسى النفسي.",
+    "darija": "المرورة ديال المذاق، ولا الحزن والفقسة فالقلب من الخيبة.",
+    "english": "bitterness / resentment"
+  },
+  "embroussaille": {
+    "type": "adjectif",
+    "fr_def": "En désordre, épais et emmêlé comme des broussailles (souvent en parlant de barbe ou de cheveux).",
+    "arabic": "أشعث، كثيف ومشوش كالأشواك والأغصان المتشابكة.",
+    "darija": "مشعكك ومرون وكثيف بحال الشوك (خصوصاً اللحية ولا الشعر).",
+    "english": "tangled / bristly"
+  },
+  "clabauder": {
+    "type": "verbe intransitif",
+    "infinitive": "clabauder",
+    "fr_def": "Médire, bavarder de manière malveillante et bruyante sur les autres.",
+    "arabic": "النميمة والخوض في أعراض الناس بالثرثرة السيئة ونشر الإشاعات.",
+    "darija": "التبزنيز والتبرݣيݣ والهضرة فظهر الناس بالخايب ونشر النميمة.",
+    "english": "to gossip maliciously / bicker"
+  },
+  "somptueux": {
+    "type": "adjectif",
+    "fr_def": "Magnifique, luxueux, qui a coûté beaucoup d'argent et qui en impose par sa beauté.",
+    "arabic": "فاخر، باذخ وفخم يثير الإعجاب بجماله وثمنه الغالي.",
+    "darija": "فخم وهموزي بزاف ومطروز كيحمر الوجه.",
+    "english": "sumptuous / lavish"
+  },
+  "demeurai": {
+    "type": "verbe (passé simple)",
+    "infinitive": "demeurer",
+    "fr_def": "Je restai (dans un lieu ou dans un état donné) ; forme du passé simple.",
+    "arabic": "بقيتُ أو مكثتُ (بصيغة الماضي البسيط الأدبي).",
+    "darija": "بقيت فواحد البلاصة ولا فواحد الحالة (صيغة الماضي البسيط بالفرنسية).",
+    "english": "I remained / I stayed"
+  },
+  "s'ingénia": {
+    "type": "verbe (passé simple)",
+    "infinitive": "s'ingénier",
+    "fr_def": "Il/Elle chercha tous les moyens possibles, déploya toute son habileté pour réussir.",
+    "arabic": "تفنن واحتال واجتهد بكل ذكاء في ابتكار الطرق لتحقيق غايته.",
+    "darija": "دار كل ما فجهدو وتحايل بذكاء باش يلقى حل لشي حاجة.",
+    "english": "contrived / taxed one's ingenuity"
+  },
+  "fût": {
+    "type": "verbe (subjonctif imparfait)",
+    "infinitive": "être",
+    "fr_def": "Forme du subjonctif imparfait du verbe être (3e personne du singulier).",
+    "arabic": "صيغة الماضي في صيغة الشك (subjonctif imparfait) من فعل كان.",
+    "darija": "صيغة الشك الأدبية من فعل كان (être) كتستعمل فالنصوص الكلاسيكية.",
+    "english": "were / might be"
+  },
+  "aperçut": {
+    "type": "verbe (passé simple)",
+    "infinitive": "apercevoir",
+    "fr_def": "Il vit soudainement ou distingua au loin.",
+    "arabic": "رأى أو لمح فجأة (بصيغة الماضي البسيط الأدبي).",
+    "darija": "شاف ولا لمح شي حاجة بالزربة فصيغة الماضي البسيط.",
+    "english": "caught sight of / spotted"
+  },
+  "songeai": {
+    "type": "verbe (passé simple)",
+    "infinitive": "songer",
+    "fr_def": "Je méditai, je réfléchis en profondeur.",
+    "arabic": "فكرت ملياً وتأملت في خاطري (بصيغة الماضي البسيط).",
+    "darija": "فكرت مزيان وتأملت فبالي فصيغة الماضي البسيط الأدبي.",
+    "english": "I contemplated / I thought"
+  },
+  "prêta": {
+    "type": "verbe (passé simple)",
+    "infinitive": "prêter",
+    "fr_def": "Il accorda (ex: prêta attention, prêta l'oreille).",
+    "arabic": "أعار وانتبه (أعار سمعه وانتباهه بصيغة الماضي البسيط).",
+    "darija": "عطا ودنو وتصنت بانتباه فصيغة الماضي البسيط الأدبي.",
+    "english": "lent (lent an ear)"
+  },
+  "résolut": {
+    "type": "verbe (passé simple)",
+    "infinitive": "résoudre",
+    "fr_def": "Il décida fermement de faire quelque chose.",
+    "arabic": "عزم وقرر بحزم لا رجعة فيه (بصيغة الماضي البسيط).",
+    "darija": "عزم وقرر يدير شي حاجة بلا تردد فصيغة الماضي البسيط.",
+    "english": "resolved / determined to"
+  },
+  "interpella": {
+    "type": "verbe (passé simple)",
+    "infinitive": "interpeller",
+    "fr_def": "Il s'adressa brusquement à quelqu'un pour lui poser une question ou le héler.",
+    "arabic": "نادى عليه فجأة وخاطبه بحدة (بصيغة الماضي البسيط).",
+    "darija": "عيط عليه فجأة وسولو بحدة فصيغة الماضي البسيط.",
+    "english": "called out to / hailed"
+  },
+  "s'empressa": {
+    "type": "verbe (passé simple)",
+    "infinitive": "s'empresser",
+    "fr_def": "Il se hâta d'agir avec enthousiasme et rapidité.",
+    "arabic": "سارع وبادر بحماسة ولهفة لإنجاز أمر ما (بصيغة الماضي البسيط).",
+    "darija": "زرب وبادر بلهفة وفرحة باش يدير شي حاجة فصيغة الماضي البسيط.",
+    "english": "hastened / eagerly hurried"
+  }
+}

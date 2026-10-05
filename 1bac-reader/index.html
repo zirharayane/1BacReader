@@ -1,0 +1,198 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>1Bac Reader - Toutes les œuvres du 1Bac, annotées</title>
+  <link rel="manifest" href="manifest.json">
+  <meta name="theme-color" content="#0d0f14">
+  <link rel="stylesheet" href="css/main.css">
+  <link rel="stylesheet" href="css/reader.css">
+</head>
+<body class="theme-night">
+
+  <!-- ================= VIEW 1: MINIMALIST BOOKSHELF PORTAL ================= -->
+  <div id="viewBookshelf">
+    <!-- Header -->
+    <header class="portal-header">
+      <div class="brand-minimal">
+        <span class="brand-symbol">◈</span>
+        <span class="brand-title">1Bac Reader</span>
+      </div>
+      <div class="portal-nav-meta">
+        Examen Régional · Maroc
+      </div>
+    </header>
+
+    <!-- Main Container -->
+    <main class="portal-container">
+      <section class="hero-minimal">
+        <h1>Toutes les œuvres du 1Bac, annotées.</h1>
+        <p>Texte intégral avec explications lexicales (français, darija, arabe) et analyse des figures de style pour l'examen régional.</p>
+        <div class="quiet-stats">
+          3 Œuvres intégrales · Dictionnaire interactif · Figures de style repérées
+        </div>
+      </section>
+
+      <!-- Vertical 2:3 Book Cards Grid -->
+      <div class="books-grid-2x3">
+
+        <!-- Card 1: La Boîte à Merveilles -->
+        <article class="book-cover-card card-boite" onclick="window.openWork('boite')">
+          <span class="card-genre">Roman Autobiographique</span>
+          <div class="card-body-center">
+            <h2 class="card-book-title">La Boîte à Merveilles</h2>
+            <p class="card-book-author">Ahmed Sefrioui</p>
+          </div>
+          <button class="btn-open-quiet" onclick="event.stopPropagation(); window.openWork('boite')">
+            Lire l'œuvre →
+          </button>
+        </article>
+
+        <!-- Card 2: Le Dernier Jour d'un Condamné -->
+        <article class="book-cover-card card-condamne" onclick="window.openWork('condamne')">
+          <span class="card-genre">Roman à Thèse</span>
+          <div class="card-body-center">
+            <h2 class="card-book-title">Le Dernier Jour d'un Condamné</h2>
+            <p class="card-book-author">Victor Hugo</p>
+          </div>
+          <button class="btn-open-quiet" onclick="event.stopPropagation(); window.openWork('condamne')">
+            Lire l'œuvre →
+          </button>
+        </article>
+
+        <!-- Card 3: Antigone -->
+        <article class="book-cover-card card-antigone" onclick="window.openWork('antigone')">
+          <span class="card-genre">Tragédie Moderne</span>
+          <div class="card-body-center">
+            <h2 class="card-book-title">Antigone</h2>
+            <p class="card-book-author">Jean Anouilh</p>
+          </div>
+          <button class="btn-open-quiet" onclick="event.stopPropagation(); window.openWork('antigone')">
+            Lire l'œuvre →
+          </button>
+        </article>
+
+      </div>
+    </main>
+  </div>
+
+  <!-- ================= VIEW 2: UNIFIED EDITORIAL READER ================= -->
+  <div id="viewReader" class="reader-wrapper" style="display:none;">
+
+    <!-- Top Navigation Header -->
+    <header class="reader-header">
+      <div class="reader-header-left">
+        <button onclick="window.returnToShelf()" class="btn-header-back" title="Revenir au rayonnage">
+          <span>← Rayonnage</span>
+        </button>
+        <div class="reader-book-title" id="readerBookTitle">1Bac Reader</div>
+        <select id="selectChapter" class="select-chapter">
+          <option value="0">Chargement...</option>
+        </select>
+      </div>
+
+      <div class="reader-header-right">
+        <!-- View Mode Switcher -->
+        <div class="adhd-tools-group">
+          <button id="btnModeBook" class="btn-tool active" title="Mode Livre Éditorial (Deux Pages)">
+            <span>📖 Livre</span>
+          </button>
+          <button id="btnModeScroll" class="btn-tool" title="Mode Défilement Continu Focus">
+            <span>📜 Scroll</span>
+          </button>
+        </div>
+
+        <!-- Focus Tools -->
+        <div class="adhd-tools-group">
+          <button id="btnToolBionic" class="btn-tool" title="Activer la lecture bionique (focus visuel)">
+            <span>⚡ Bionic</span>
+          </button>
+          <button id="btnToolRuler" class="btn-tool" title="Afficher le guide de lecture">
+            <span>📏 Guide</span>
+          </button>
+          <button id="btnToolSpotlight" class="btn-tool" title="Mettre en lumière le paragraphe actif">
+            <span>🎯 Focus</span>
+          </button>
+          <button id="btnFontMinus" class="btn-tool" title="Diminuer la police">A-</button>
+          <button id="btnFontPlus" class="btn-tool" title="Augmenter la police">A+</button>
+        </div>
+
+        <!-- Themes -->
+        <div class="theme-selector">
+          <button class="theme-btn active" data-theme="night" title="Mode Nuit"></button>
+          <button class="theme-btn" data-theme="sepia" title="Mode Papier Sépia"></button>
+          <button class="theme-btn" data-theme="light" title="Mode Papier Crème"></button>
+        </div>
+      </div>
+    </header>
+
+    <!-- Reading Stage with Docked Inspector -->
+    <div class="reader-stage-container" id="readerStageContainer">
+
+      <div class="reader-main-area">
+
+        <!-- Editorial Book Spread Mode -->
+        <div class="editorial-book-stage" id="book3DWrapper">
+          <button id="btnPrevPage" class="nav-turn-arrow nav-arrow-left" title="Page Précédente">
+            <span>◀</span>
+          </button>
+
+          <div class="editorial-book-spread">
+            <div id="flipbookContainer" class="flipbook-container">
+              <!-- Dynamically populated pages -->
+            </div>
+          </div>
+
+          <button id="btnNextPage" class="nav-turn-arrow nav-arrow-right" title="Page Suivante">
+            <span>▶</span>
+          </button>
+        </div>
+
+        <!-- Continuous Scroll Mode -->
+        <div class="scroll-reader-wrapper" id="scrollReaderWrapper">
+          <div class="scroll-reader-content" id="scrollReaderContent">
+            <!-- Dynamically populated scroll content -->
+          </div>
+        </div>
+
+      </div>
+
+      <!-- Docked Inspector Sidebar -->
+      <aside id="inspectorDrawer" class="inspector-drawer">
+        <div class="drawer-header">
+          <h3>🔍 Inspecteur 1Bac</h3>
+          <button id="btnCloseDrawer" class="btn-close-drawer">&times;</button>
+        </div>
+        <div id="inspectorBody" class="drawer-body">
+          <div class="annotation-card">
+            <p style="color:#94a3b8; font-size:0.95rem; text-align:center; line-height:1.6;">
+              Cliquez sur un mot souligné en jaune ou sur une figure de style en violet pour afficher la définition et l'explication en <strong>الدارجة المغربية</strong>.
+            </p>
+          </div>
+        </div>
+      </aside>
+
+    </div>
+
+    <!-- Bottom Page Flip Toolbar (Visible in Book Mode) -->
+    <footer class="reader-toolbar" id="readerToolbar">
+      <div class="page-slider-container">
+        <input type="range" id="pageSlider" class="page-slider" min="0" max="100" value="0">
+        <span id="pageNumDisplay" class="page-num-display">1 / 1</span>
+      </div>
+    </footer>
+
+  </div>
+
+  <!-- Soft Ambient Reading Guide -->
+  <div id="readingRuler" class="reading-ruler"></div>
+
+  <!-- Scripts -->
+  <script src="js/vendor/page-flip.browser.js"></script>
+  <script src="js/parser.js"></script>
+  <script src="js/inspector.js"></script>
+  <script src="js/reader.js"></script>
+  <script src="js/sw-register.js"></script>
+</body>
+</html>

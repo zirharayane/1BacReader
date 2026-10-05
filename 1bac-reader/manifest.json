@@ -1,0 +1,17 @@
+{
+  "name": "1Bac Reader - Révision Français Examen Régional Maroc",
+  "short_name": "1Bac Reader",
+  "description": "Application interactive de révision du Français 1Bac Maroc: La Boîte à Merveilles, Le Dernier Jour d'un Condamné, Antigone.",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#0b0f19",
+  "theme_color": "#131b2e",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect width='100' height='100' rx='20' fill='%236366f1'/><text x='50' y='68' font-size='60' text-anchor='middle' fill='white'>📖</text></svg>",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml"
+    }
+  ]
+}

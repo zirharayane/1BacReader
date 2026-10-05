@@ -1,0 +1,466 @@
+{
+  "sépulture": {
+    "type": "nom féminin",
+    "fr_def": "Lieu où l'on enterre un mort ; ensemble des rituels et honneurs funèbres accordés à un défunt.",
+    "arabic": "الدفن الشرعي أو القبر؛ إكرام الميت بمواراته الثرى وإقامة الطقوس الجنائزية الواجبة له.",
+    "darija": "الدفين وإكرام الميت بالدفن فالقبر والطقوس الدينية الواجبة عليه.",
+    "english": "burial / formal funeral / grave"
+  },
+  "sépulcre": {
+    "type": "nom masculin",
+    "fr_def": "Tombeau, monument funéraire taillé dans la pierre où repose un corps.",
+    "arabic": "القبر أو الضريح الحجري المنحوت الذي يُوضع فيه الميت.",
+    "darija": "القبر ولا الروضة المبنية بالحجر فين كيتدفن الميت.",
+    "english": "sepulchre / stone tomb"
+  },
+  "ananké": {
+    "type": "nom féminin",
+    "fr_def": "La fatalité tragique, le destin inéluctable auquel aucun être humain ne peut échapper.",
+    "arabic": "القضاء والقدر الحتمي، الحتمية المأساوية القاهرة في الأساطير الإغريقية.",
+    "darija": "المكتاب المحتوم والقدر التراجيدي لي ما عند الشخصيات كيفاش يهربو منو.",
+    "english": "fatal necessity / tragic destiny"
+  },
+  "ciguë": {
+    "type": "nom féminin",
+    "fr_def": "Plante très toxique dont le poison servait autrefois à exécuter les condamnés à mort (comme Socrate).",
+    "arabic": "الشَّوْكران، نبات سام وقاتل كان يُعطى عصيره للمحكومين بالإعدام في اليونان القديمة.",
+    "darija": "عشبة الشوكران المسمومة لي كانو كيسقيوها للمحكومين بالإعدام باش يموتو مسمومين.",
+    "english": "hemlock (poisonous plant)"
+  },
+  "charogne": {
+    "type": "nom féminin",
+    "fr_def": "Cadavre d'un être humain ou d'un animal en état de putréfaction avancée, puant et mangé par les bêtes.",
+    "arabic": "الجيفة أو الجثة العفنة المنتنة المتروكة في العراء لتأكلها الجوارح والكلاب.",
+    "darija": "الجيفة المعفنة المرمية فالخلا لي كتاكلها الكلاب والطيران الجوارح.",
+    "english": "rotting corpse / carrion"
+  },
+  "cadavre": {
+    "type": "nom masculin",
+    "fr_def": "Corps d'une personne ou d'un animal mort.",
+    "arabic": "الجثة أو الجثمان الهامد بعد خروج الروح.",
+    "darija": "الجثة ديال بنادم ميت وما بقاش فيه الروح.",
+    "english": "corpse / dead body"
+  },
+  "dépouille": {
+    "type": "nom féminin",
+    "fr_def": "Le corps d'une personne décédée (terme respectueux et solennel).",
+    "arabic": "الجثمان الطاهر أو رفات الميت (تعبير جنائزي للتكريم والمهابة).",
+    "darija": "الجثمان ديال الميت بعبارة محترمة ومقدسة فاش كيبغيو يدفنوه.",
+    "english": "mortal remains"
+  },
+  "impie": {
+    "type": "adjectif / nom",
+    "fr_def": "Qui méprise la religion, outrage les dieux ou profane les devoirs sacrés.",
+    "arabic": "الفاسق، الكافر، أو المعتدي على حرمة المقدسات والفرائض الدينية.",
+    "darija": "كافر ولا فاسق لي كيتعدى على حرمة الدين ومكيحترمش المقدسات والأصول.",
+    "english": "impious / blasphemous / ungodly"
+  },
+  "sacrilège": {
+    "type": "nom masculin",
+    "fr_def": "Profanation d'une chose, d'une loi ou d'un lieu sacré ; acte révoltant contre la religion.",
+    "arabic": "انتهاك الحرمات أو التعدي على المقدسات؛ فعل شنيع يدنس حرمة الدين.",
+    "darija": "انتهاك الحرمة ديال شي حاجة مقدسة فالدين ولا فالقانون.",
+    "english": "sacrilege / desecration"
+  },
+  "forfait": {
+    "type": "nom masculin",
+    "fr_def": "Crime odieux, acte très grave et impardonnable commis contre la loi ou la morale.",
+    "arabic": "الجُرم الشنيع أو الجناية الفظيعة التي لا تُغتفر.",
+    "darija": "الجريمة الكبيرة والمنكرة لي كتروع النفوس.",
+    "english": "heinous crime / outrage"
+  },
+  "dérisoire": {
+    "type": "adjectif",
+    "fr_def": "Tellement minime, faible ou insignifiant que cela en devient ridicule et pitoyable.",
+    "arabic": "تافه أو هزيل ومثير للسخرية والشفقة لشدة ضآلته وعجزه.",
+    "darija": "تافه وبسيط بزاف لدرجة كيبان كيضحك ويبكي فالوقت نفسو (بحال البالة الصغيرة ديال أنتيغون).",
+    "english": "laughably tiny / pathetic"
+  },
+  "édile": {
+    "type": "nom masculin",
+    "fr_def": "Magistrat ou officier public chargé de l'administration municipale et du maintien de l'ordre.",
+    "arabic": "مسؤول أو حاكم بلدي مكلّف بإدارة شؤون المدينة وضبط النظام العام.",
+    "darija": "مسؤول محلي ولا حاكم ديال المدينة مكلف بتسيير أمور الناس والنظام.",
+    "english": "magistrate / municipal administrator"
+  },
+  "hybris": {
+    "type": "nom féminin",
+    "fr_def": "Orgueil démesuré et aveugle qui pousse un personnage tragique à défier les lois et les dieux.",
+    "arabic": "العنجهية المفرطة والغرور القاتل الذي يدفع البطل لتحدي الآلهة والقوانين ومواجهة الهلاك.",
+    "darija": "العياقة والتكبر الزايد عن حده لي كيخلي الواحد يتحدى القوانين والقدر حتى كيخرج على راسو.",
+    "english": "hubris / fatal overweening pride"
+  },
+  "superbe": {
+    "type": "adjectif",
+    "fr_def": "Fier, altier, plein d'une dignité hautaine face à l'ennemi ou au danger.",
+    "arabic": "شامخ، معتز بنفسه، أو متكبر ممتلئ عزة وكبرياء أمام الموت والسلطة.",
+    "darija": "عزيز النفس وشامخ ومكبر شانو قدام الموت والتهديد ديال الملك.",
+    "english": "proud / haughty / lofty"
+  },
+  "souillure": {
+    "type": "nom féminin",
+    "fr_def": "Tache morale, impureté honteuse ou déshonneur qui salit une personne, une famille ou une cité.",
+    "arabic": "دنس أو رجس أو عار يلطخ الشرف والطهارة والمقدسات.",
+    "darija": "الدنس والعار لي كيوسخ الشرف والسمعة ديال العائلة ولا المدينة.",
+    "english": "stain / moral defilement"
+  },
+  "abject": {
+    "type": "adjectif",
+    "fr_def": "Qui mérite le mépris le plus total par sa bassesse, sa lâcheté ou sa dégradation morale.",
+    "arabic": "حقير، دنيء وساقط الأخلاق يثير الاشمئزاز من شدة نذالته.",
+    "darija": "حقير ورخيص وخالع من النذالة والخسة ديالو.",
+    "english": "vile / despicable / wretched"
+  },
+  "déchoir": {
+    "type": "verbe intransitif",
+    "infinitive": "déchoir",
+    "fr_def": "Perdre son autorité, sa grandeur, son honneur ou descendre à un rang inférieur méprisable.",
+    "arabic": "الانحطاط والسقوط، فقدان الهيبة والمنزلة والكرامة والنزول إلى الحضيض.",
+    "darija": "طاح من عين الناس وفقد الهيبة والشأن والكرامة ديالو ورجع رخيص.",
+    "english": "to fall from grace / forfeit dignity"
+  },
+  "braver": {
+    "type": "verbe transitif",
+    "infinitive": "braver",
+    "fr_def": "Affronter quelqu'un ou quelque chose avec courage et audace, défier une autorité ou une loi sans peur.",
+    "arabic": "تحدى، واجه بشجاعة وجرأة ورفض الانصياع لسلطة أو قانون جائر.",
+    "darija": "تحدى وما خافش، وقف راس براس فوجه الملك ولا الخطر بلا ما يرمش.",
+    "english": "to brave / defy boldly"
+  },
+  "défier": {
+    "type": "verbe transitif",
+    "infinitive": "défier",
+    "fr_def": "Provoquer un adversaire en combat ou refuser ouvertement de se soumettre à un ordre.",
+    "arabic": "استفز وتحدى معلناً العصيان ورفض الانقياد.",
+    "darija": "تحدى علانية ورفض يسمع للهضرة ولا يخضع للأوامر.",
+    "english": "to challenge / defy openly"
+  },
+  "châtiment": {
+    "type": "nom masculin",
+    "fr_def": "Punition sévère infligée pour réparer une faute ou un crime.",
+    "arabic": "العقاب الصارم أو الجزاء القاسي المفروض جراء ارتكاب ذنب أو معصية.",
+    "darija": "العقوبة القاصحة لي كياكلها الواحد فاش كيدير شي غلطة ولا جريمة.",
+    "english": "chastisement / severe punishment"
+  },
+  "courroux": {
+    "type": "nom masculin",
+    "fr_def": "Colère violente, vive et solennelle d'un roi, d'un chef ou des dieux.",
+    "arabic": "السخط الشديد أو الغضب العارم للملوك والآلهة.",
+    "darija": "الغضب والزعاف الشديد ديال الملك ولا السلطة لي كيطيح على الراس.",
+    "english": "wrath / royal fury"
+  },
+  "décret": {
+    "type": "nom masculin",
+    "fr_def": "Ordre écrit ou décision officielle promulguée par le souverain (la loi de Créon interdisant d'enterrer Polynice).",
+    "arabic": "المرسوم الملكي أو الأمر القانوني الصارم الصادر عن رأس السلطة.",
+    "darija": "المرسوم ولا الأمر الملكي الرسمي لي كيصدر الملك وكيولي قانون بزز على كولشي.",
+    "english": "royal decree / edict"
+  },
+  "haillons": {
+    "type": "nom masculin pluriel",
+    "fr_def": "Vêtements très déchirés, usés, sales et misérables.",
+    "arabic": "الأسمال البالية، الثياب الممزقة والرثة التي يرتديها المتسولون والمشردون.",
+    "darija": "الشراوط والحوايج المقطعين والموسخين ديال المزلوط ولا المشرد.",
+    "english": "rags / tattered clothes"
+  },
+  "besogne": {
+    "type": "nom féminin",
+    "fr_def": "Travail pénible, corvée ingrate qu'il faut accomplir même si elle est sale ou désagréable.",
+    "arabic": "العمل الشاق والرتيب، السخرة أو المهمة القذرة التي لا بد من إنجازها.",
+    "darija": "التمارة والشغل الشاق والخانز لي كيكون بنادم مجبور يديرو وخا مباغيش.",
+    "english": "drudgery / task / dirty chore"
+  },
+  "blême": {
+    "type": "adjectif",
+    "fr_def": "D'une pâleur anormale, blafard sous l'effet de la peur, de la maladie ou de la fatigue extrême.",
+    "arabic": "شاحب اللون ومصفر الوجه من شدة الرعب أو الإرهاق أو الدنو من الموت.",
+    "darija": "صفر وخاطف لونو من الخلعة ولا المرض ولا قلة النعاس.",
+    "english": "pale / pallid / ashen"
+  },
+  "éperdu": {
+    "type": "adjectif",
+    "fr_def": "Complètement bouleversé, troublé au point de perdre la raison sous le coup d'une violente émotion.",
+    "arabic": "هائم على وجهه، تائه ومذهول من فرط الحزن أو الفزع أو الحب الجارف.",
+    "darija": "دايخ وتالف ما عارف ما يدير من شدة الصدمة ولا الحزن ولا الخلعة.",
+    "english": "distraught / bewildered / frantic"
+  },
+  "tramer": {
+    "type": "verbe transitif",
+    "infinitive": "tramer",
+    "fr_def": "Préparer secrètement un complot, un piège ou un mauvais coup contre quelqu'un.",
+    "arabic": "دبّر وحاك مؤامرة أو مكيدة خفية في الظلام ضد شخص ما.",
+    "darija": "حاك ودبر مؤامرة ولا فخ من تحت لتحت فالسر.",
+    "english": "to plot / hatch a scheme"
+  },
+  "geôlier": {
+    "type": "nom masculin",
+    "fr_def": "Gardien de prison chargé de surveiller et d'enfermer les captifs.",
+    "arabic": "السجان، الحارس المكلّف بإغلاق أبواب السجون وحراسة المعتقلين.",
+    "darija": "الحارس ديال الحبس (الݣارديان) لي كيقابل المحبوسين ويسد عليهم البيبان.",
+    "english": "jailer / prison warden"
+  },
+  "trépasser": {
+    "type": "verbe intransitif",
+    "infinitive": "trépasser",
+    "fr_def": "Mourir, rendre le dernier soupir.",
+    "arabic": "قضى نحبه، فارق الحياة ومات.",
+    "darija": "مات وتوفى وخرجت روحو.",
+    "english": "to pass away / perish"
+  },
+  "implacable": {
+    "type": "adjectif",
+    "fr_def": "Qu'on ne peut pas fléchir, apaiser ou adoucir ; dur, sans pitié et inflexible (comme Créon ou le destin).",
+    "arabic": "صارم لا يلين، عديم الرحمة لا يقبل الاستعطاف ولا يثنيه شيء عن بطشه.",
+    "darija": "قاصح ومكتنزلش عليه الرحمة، ما كيقبل لا سماحة ولا شفاعة.",
+    "english": "implacable / pitiless / unyielding"
+  },
+  "s'obstiner": {
+    "type": "verbe pronominal",
+    "infinitive": "s'obstiner",
+    "fr_def": "Persister avec entêtement dans une décision malgré les avertissements, les menaces ou le bon sens.",
+    "arabic": "عاند وتصلب في رأيه، أصرّ بجموح رغم التحذيرات وخطر الموت.",
+    "darija": "عكس وركب راسو فشي حاجة وخا كيشوف الخطر والتحذيرات قدام عينيه.",
+    "english": "to stubbornly persist / dig in one's heels"
+  },
+  "outrager": {
+    "type": "verbe transitif",
+    "infinitive": "outrager",
+    "fr_def": "Offenser gravement par des paroles insultantes ou des actes méprisants qui blessent l'honneur.",
+    "arabic": "أهان بشدة واعتدى على الكرامة بالسب أو الانتهاك الجسيم.",
+    "darija": "هان وقمع ومس بالكرامة والشرف ديال شي حد بكلام ولا تصرف قبيح.",
+    "english": "to outrage / insult grievously"
+  },
+  "hyménée": {
+    "type": "nom masculin",
+    "fr_def": "Le mariage, l'union conjugale célébrée solennellement (le mariage manqué entre Hémon et Antigone).",
+    "arabic": "الزواج أو القِران المقدس والرباط الزوجي الشرعي.",
+    "darija": "العرس والزواج والرباط بين الراجل والمرا.",
+    "english": "matrimony / nuptials"
+  },
+  "néfaste": {
+    "type": "adjectif",
+    "fr_def": "Qui apporte le malheur, la ruine ou le désastre mortel.",
+    "arabic": "مشؤوم أو نحس، ما يجلب الكوارث والمصائب والدمار.",
+    "darija": "مشؤوم ومنحوس، كيجيب غير المصائب والخراب والموت.",
+    "english": "ill-fated / harmful / disastrous"
+  },
+  "oisif": {
+    "type": "adjectif",
+    "fr_def": "Qui est sans occupation, inactif ou qui passe son temps sans rien produire.",
+    "arabic": "عاطل أو خامل، من لا يمارس عملاً مفيداً ويمضي وقته في الفراغ.",
+    "darija": "جالس ما عندو ما يدار، عاطل ومامسوق لتا حاجة وكيضيع الوقت فالتفاهة.",
+    "english": "idle / inactive"
+  },
+  "mourût": {
+    "type": "verbe (subjonctif imparfait)",
+    "infinitive": "mourir",
+    "fr_def": "Forme littéraire du verbe mourir au subjonctif imparfait (3e personne du singulier).",
+    "arabic": "صيغة الماضي للشك من فعل مات في الأسلوب الأدبي الكلاسيكي.",
+    "darija": "صيغة الشك الأدبية الكلاسيكية من فعل مات (mourir).",
+    "english": "might die / should die"
+  },
+  "fussions": {
+    "type": "verbe (subjonctif imparfait)",
+    "infinitive": "être",
+    "fr_def": "Forme littéraire du verbe être au subjonctif imparfait (1re personne du pluriel : que nous fussions).",
+    "arabic": "صيغة الماضي للشك من فعل كان مع ضمير نحن في الأسلوب الأدبي.",
+    "darija": "صيغة الشك الأدبية ديال فعل كنا (être مع nous فالفرنسية الكلاسيكية).",
+    "english": "we were / might be"
+  },
+  "osât": {
+    "type": "verbe (subjonctif imparfait)",
+    "infinitive": "oser",
+    "fr_def": "Forme du subjonctif imparfait du verbe oser (3e personne du singulier : qu'il osât).",
+    "arabic": "صيغة الماضي للشك من فعل تجرأ أو جسر في الفرنسية الأدبية.",
+    "darija": "صيغة الشك الأدبية من فعل زعم ولا تجرأ (oser).",
+    "english": "might dare / dared"
+  },
+  "sût": {
+    "type": "verbe (subjonctif imparfait)",
+    "infinitive": "savoir",
+    "fr_def": "Forme du subjonctif imparfait du verbe savoir (3e personne du singulier : qu'il sût).",
+    "arabic": "صيغة الماضي للشك من فعل علم أو عرف في الأسلوب الأدبي.",
+    "darija": "صيغة الشك الأدبية من فعل عرف (savoir).",
+    "english": "might know / knew"
+  },
+  "voulut": {
+    "type": "verbe (passé simple)",
+    "infinitive": "vouloir",
+    "fr_def": "Forme du passé simple du verbe vouloir (3e personne du singulier).",
+    "arabic": "أراد أو عزم (بصيغة الماضي البسيط الأدبي).",
+    "darija": "بغى وقرر فصيغة الماضي البسيط الأدبي.",
+    "english": "wanted / resolved to"
+  },
+  "pût": {
+    "type": "verbe (subjonctif imparfait)",
+    "infinitive": "pouvoir",
+    "fr_def": "Forme littéraire du verbe pouvoir au subjonctif imparfait (3e personne du singulier).",
+    "arabic": "صيغة الماضي للشك من فعل استطاع أو قدر في الأسلوب الأدبي.",
+    "darija": "صيغة الشك الأدبية من فعل قدر ولا استطاع (pouvoir).",
+    "english": "could / might be able to"
+  },
+  "noiraude": {
+    "type": "adjectif / nom féminin",
+    "fr_def": "Jeune fille ou femme au teint sombre ou basané et aux cheveux noirs (qualificatif d'Antigone comparée à sa soeur blonde).",
+    "arabic": "السمراء الداكنة البشرة وسوداء الشعر (وصف لأنتيغون مقارنة بأختها إسمين الشقراء).",
+    "darija": "السميرة ولا الكحلوشة، البنت لي بشرتها سمراء وشعرها كحل عكس ختها الشقراء.",
+    "english": "dark-skinned girl / brunette"
+  },
+  "renfermée": {
+    "type": "adjectif",
+    "fr_def": "Personne timide, secrète, peu communicative qui garde ses sentiments pour elle-même.",
+    "arabic": "المنطوية على نفسها، الكتومة التي لا تبوح بأسرارها ومشاعرها للآخرين.",
+    "darija": "المسدودة على راسها، الدريّة لي كتكتم فقلبها ومكتعاود تا حاجة للناس.",
+    "english": "withdrawn / uncommunicative / reserved"
+  },
+  "vertigineuse": {
+    "type": "adjectif",
+    "fr_def": "D'une rapidité ou d'une hauteur qui donne le vertige, extrêmement rapide et impressionnant.",
+    "arabic": "شديدة السرعة أو الارتفاع لدرجة الدوار؛ سرعة خارقة تفقد التوازن.",
+    "darija": "سريعة بزاف لدرجة كتدوخ وتخلع من كثرة السرعة ديالها.",
+    "english": "dizzying / breakneck speed"
+  },
+  "apprêter": {
+    "type": "verbe transitif",
+    "infinitive": "apprêter",
+    "fr_def": "Préparer avec soin quelque chose ou quelqu'un pour une cérémonie, une fête ou un départ.",
+    "arabic": "جهّز وهيّأ بعناية فائقة لمناسبة أو احتفال أو سفر.",
+    "darija": "وجد وهيأ وصاوب راسو مزيان لشي مناسبة ولا خرجة.",
+    "english": "to prepare / dress up"
+  },
+  "sourdement": {
+    "type": "adverbe",
+    "fr_def": "D'une voix basse, étouffée, grave et contenue ; sans éclat extérieur mais avec intensité.",
+    "arabic": "بصوت خافت ومكتوم ينم عن توتر وألم دفين.",
+    "darija": "بصوت مخنوق وهابط كيبين الغديد والحزن لداخل.",
+    "english": "dully / in a low, muffled voice"
+  },
+  "carnage": {
+    "type": "nom masculin",
+    "fr_def": "Massacre d'un grand nombre de personnes avec effusion sanglante et cruauté.",
+    "arabic": "المجزرة أو المذبحة الدامية التي يسقط فيها قتلى كثر بوحشية.",
+    "darija": "المجزرة والمدبحة لي كيسيل فيها الدم وكيموتو فيها بزاف ديال الناس.",
+    "english": "carnage / slaughter / bloodshed"
+  },
+  "hécatombe": {
+    "type": "nom féminin",
+    "fr_def": "Grand massacre, mort tragique d'un grand nombre d'êtres humains.",
+    "arabic": "المقتلة العظيمة أو الفناء الجماعي للأرواح في الحروب والمآسي.",
+    "darija": "الفناء والموت الجماعي لي كيهلك عائلات ولا جيوش كاملين.",
+    "english": "hecatomb / wholesale destruction"
+  },
+  "mutinerie": {
+    "type": "nom féminin",
+    "fr_def": "Révolte collective et refus d'obéissance de soldats ou de subordonnés contre leurs chefs.",
+    "arabic": "التمرد والعصيان العسكري الجماعي ضد أوامر القادة والضباط.",
+    "darija": "التمرد والروينة فاش كيرفضو العسكر ولا الخدامة يسمعو للأوامر ديال الشاف.",
+    "english": "mutiny / rebellion against authority"
+  },
+  "tyrannie": {
+    "type": "nom féminin",
+    "fr_def": "Pouvoir absolu, arbitraire, oppressif et cruel exercé par un tyran sans respect des droits.",
+    "arabic": "الاستبداد والطغيان؛ الحكم الفردي الجائر والمطلق بظلم وقهر.",
+    "darija": "الحكرة والظلم والاستبداد فاش كيحكم شي طاغية بلا عدل ولا قانون.",
+    "english": "tyranny / oppressive dictatorship"
+  },
+  "sbire": {
+    "type": "nom masculin (péjoratif)",
+    "fr_def": "Agent d'autorité sans scrupule qui exécute aveuglément les basses besognes cruelles d'un chef.",
+    "arabic": "الجلاوزة أو أزلام النظام والشرطة السرية الذين ينفذون الأعمال القذرة والبطش بالأبرياء.",
+    "darija": "العساسة والبلطجية لي كيطبقو الأوامر القمعية بلا رحمة ولا ضمير.",
+    "english": "henchman / thug in authority"
+  },
+  "ruser": {
+    "type": "verbe intransitif",
+    "infinitive": "ruser",
+    "fr_def": "Employer des ruses, agir avec malice, tromperie et subtilité pour arriver à ses fins.",
+    "arabic": "راوغ وتحايل واستعمل الحيل والمكر للوصول إلى غايته.",
+    "darija": "قَوْلب وتْحايل ودخل من الشراجم بالذكاء والخديعة باش يقضي حاجتو.",
+    "english": "to use trickery / outsmart"
+  },
+  "flatterie": {
+    "type": "nom féminin",
+    "fr_def": "Louanges exagérées, mensongères et intéressées adressées à quelqu'un pour lui plaire.",
+    "arabic": "التملق والمداهنة والنفاق بنفاق المدح الكاذب لكسب الرضا.",
+    "darija": "التبنديق والتملق والشكر المزيف لي كيديرو الواحد باش يدهن السير لمول الشي.",
+    "english": "flattery / sycophancy"
+  },
+  "caprice": {
+    "type": "nom masculin",
+    "fr_def": "Envie subite, changeante et irrationnelle, souvent sans motif sérieux.",
+    "arabic": "نزوة أو هوى عابر ومفاجئ لا يستند إلى عقل أو منطق.",
+    "darija": "النزوة ولا البسالة ديال الخاطر فاش كيبغي بنادم شي حاجة مفاجئة بلا عقل.",
+    "english": "caprice / whim"
+  },
+  "sordide": {
+    "type": "adjectif",
+    "fr_def": "D'une saleté répugnante ou d'une bassesse morale révoltante.",
+    "arabic": "قذر وكريه، أو دنيء وحقير أخلاقياً يثير الاشمئزاز والنفور.",
+    "darija": "خانز وموسخ بزاف، ولا دنيء ومنحط لدرجة كيعيف.",
+    "english": "sordid / filthy / vile"
+  },
+  "ignoble": {
+    "type": "adjectif",
+    "fr_def": "Qui est contraire à tout honneur, honteux, vil et dégradant pour la dignité.",
+    "arabic": "نذل، لئيم، ومنحط ومجرد من كل شرف ومروءة.",
+    "darija": "نذل وقليل الشرف لي كيدير تصرفات طايحة ومخزية.",
+    "english": "ignoble / dishonorable / dastardly"
+  },
+  "écœurer": {
+    "type": "verbe transitif",
+    "infinitive": "écœurer",
+    "fr_def": "Provoquer un soulèvement de cœur, dégoûter profondément au sens physique ou moral.",
+    "arabic": "أصاب بالغثيان والتقزز الشديد حسياً أو معنوياً.",
+    "darija": "دوّخ وعيَف قلب بنادم وطلع ليه الدم والردة من شدة القرف.",
+    "english": "to sicken / revolt / disgust"
+  },
+  "remords": {
+    "type": "nom masculin",
+    "fr_def": "Sentiment douloureux et tourment de conscience causé par le regret d'une faute commise.",
+    "arabic": "تأنيب الضمير والندم المؤلم على ارتكاب خطيئة أو ظلم.",
+    "darija": "تأنيب الضمير والندامة القاصحة لي كتحرق القلب فاش كيدير الواحد الذنب.",
+    "english": "remorse / prick of conscience"
+  },
+  "scrupule": {
+    "type": "nom masculin",
+    "fr_def": "Hésitation ou inquiétude de conscience par peur de commettre une injustice ou un mal.",
+    "arabic": "الوَرَع أو التحرج الأخلاقي؛ التردد والاحتياط خوفاً من ارتكاب باطل.",
+    "darija": "الحشمة والاحتياط ديال الضمير باش ما يظلمش الواحد ولا يدير الحرام.",
+    "english": "qualm / moral scruple"
+  },
+  "effroi": {
+    "type": "nom masculin",
+    "fr_def": "Grande frayeur soudaine et terrifiante qui glace le sang.",
+    "arabic": "الرعب الشديد أو الفزع العظيم الذي يجمد الدماء في العروق.",
+    "darija": "الخلعة والهلع الكبير لي كيجمد بنادم فبلاصتو من الصدمة.",
+    "english": "dread / extreme terror"
+  },
+  "consternation": {
+    "type": "nom féminin",
+    "fr_def": "Abattement profond mêlé d'étonnement douloureux et d'impuissance devant une catastrophe.",
+    "arabic": "الوجوم والذهول الحزين الممتزج بالعجز والانهيار أمام الكارثة.",
+    "darija": "الصدمة والوجوم فاش كيطرا شي بلاء كحل وما كيبقى عند الواحد ما يدير.",
+    "english": "consternation / dismay"
+  },
+  "stupeur": {
+    "type": "nom féminin",
+    "fr_def": "Étonnement si profond qu'il paralyse la parole et l'action.",
+    "arabic": "الذهول الشديد والحيرة الشالة للحركة والكلام من فرط المفاجأة.",
+    "darija": "الدهشة والتبهديلة لي كتشل اللسان ومكتخليش بنادم ينطق بكلمة.",
+    "english": "stupor / stunned amazement"
+  },
+  "résignation": {
+    "type": "nom féminin",
+    "fr_def": "Acceptation passive, soumise et désespérée de son sort ou d'une épreuve inévitable.",
+    "arabic": "الاستسلام والرضوخ للأمر الواقع بعجز وخضوع دون مقاومة.",
+    "darija": "الاستسلام والرضوخ للمكتاب بلا ما يقدر الواحد يبدل شي حاجة.",
+    "english": "resignation / passive submission"
+  },
+  "sérénité": {
+    "type": "nom féminin",
+    "fr_def": "État de calme absolu, de paix intérieure et de tranquillité de l'esprit.",
+    "arabic": "الطمأنينة والسكينة والهدوء النفسي التام الخالي من الاضطراب.",
+    "darija": "الراحة وهداوة البال والسكينة الداخلية لي مكتزعزعش.",
+    "english": "serenity / tranquility"
+  }
+}
